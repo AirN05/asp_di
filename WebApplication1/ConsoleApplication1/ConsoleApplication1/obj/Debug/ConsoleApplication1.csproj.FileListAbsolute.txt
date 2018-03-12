@@ -1,0 +1,7 @@
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Composition.AttributedModel.dll
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Настя\проекты\asp_di\WebApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
