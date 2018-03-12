@@ -8,10 +8,21 @@ namespace ConsoleApplication2
 {
     class Database : IDatabase
     {
-        public void Execute(string query)
-        {
-            
+        public ILogger logger { get; set; }
 
+        public Database(ILogger lg)
+        {
+            logger = lg;
         }
+        public void Execute(string query)
+        {      
+            logger.Log(query);
+        }
+
+        public ILogger GetLogger()
+        {
+            return logger;
+        }
+
     }
 }

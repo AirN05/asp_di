@@ -9,5 +9,7 @@ namespace ConsoleApplication2
     interface IDatabase
     {
         void Execute(string query);
+
+        ILogger GetLogger();
     }
 }

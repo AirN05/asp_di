@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DryIoc;
+using Ninject;
 
 
 namespace ConsoleApplication2
@@ -12,9 +12,13 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            var c = new Container();
-            c.Register<IDatabase>();
-           // IDatabase db = c.Resolve<IDatabase>;
+            IKernel kernel = new StandardKernel();
+
+            kernel.Bind<ILogger>().To<Logger>().InSingletonScope();
+            kernel.Bind<IDatabase>().To<Database>().InTransientScope();
+
+            IDatabase dataBase = kernel.Get<IDatabase>();
+            dataBase.Execute("test string");
         }
     }
 }
