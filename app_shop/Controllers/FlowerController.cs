@@ -11,7 +11,6 @@ namespace app_shop.Controllers
         public IActionResult Index(int id)
         {
             var flower = FlowerDB.GetById(id);
-            ViewBag.FlowerId = id;
             return View(flower);
         }
     }

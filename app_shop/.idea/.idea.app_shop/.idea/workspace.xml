@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <marker date="1523798798405" expanded="true" signature="0:58" ph="@..." />
                 <marker date="1523798798405" expanded="true" signature="102:401" ph="@..." />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <marker date="1523801650641" expanded="true" signature="6:220" ph="..." />
                 <marker date="1523801650641" expanded="true" signature="252:1045" ph="{...}" />
@@ -57,13 +57,13 @@
       <file leaf-file-name="FlowerController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controllers/FlowerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               <folding>
-                <marker date="1523801108910" expanded="true" signature="6:54" ph="..." />
-                <marker date="1523801108910" expanded="true" signature="86:389" ph="{...}" />
-                <marker date="1523801108910" expanded="true" signature="135:387" ph="{...}" />
-                <marker date="1523801108910" expanded="true" signature="246:381" ph="{...}" />
+                <marker date="1523803038599" expanded="true" signature="6:54" ph="..." />
+                <marker date="1523803038599" expanded="true" signature="86:354" ph="{...}" />
+                <marker date="1523803038599" expanded="true" signature="135:352" ph="{...}" />
+                <marker date="1523803038599" expanded="true" signature="246:346" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,11 +72,11 @@
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/Flower/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
-                <marker date="1523799293611" expanded="true" signature="15:72" ph="@..." />
-                <marker date="1523799293611" expanded="true" signature="117:349" ph="&lt;div.../&gt;" />
+                <marker date="1523803123962" expanded="true" signature="15:72" ph="@..." />
+                <marker date="1523803123962" expanded="true" signature="94:326" ph="&lt;div.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -123,14 +123,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/db.json" />
         <option value="$PROJECT_DIR$/Models/Flower.cs" />
-        <option value="$PROJECT_DIR$/Views/Flower/Index.cshtml" />
         <option value="$PROJECT_DIR$/wwwroot/css/site.css" />
         <option value="$PROJECT_DIR$/FlowerDB.cs" />
-        <option value="$PROJECT_DIR$/Controllers/FlowerController.cs" />
         <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Controllers/FlowerController.cs" />
+        <option value="$PROJECT_DIR$/Views/Flower/Index.cshtml" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -179,6 +179,26 @@
               <item name="app_shop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="app_shop" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="app_shop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="app_shop" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="app_shop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="app_shop" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Flower" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="app_shop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="app_shop" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -244,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523793547624</updated>
       <workItem from="1523793548935" duration="6072000" />
-      <workItem from="1523800379531" duration="1736000" />
+      <workItem from="1523800379531" duration="2736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7808000" />
+    <option name="totallyTimeSpent" value="8808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,13 +281,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24683544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24683544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2927215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -326,10 +347,10 @@
         <state relative-caret-position="170">
           <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
-            <marker date="1523801108910" expanded="true" signature="6:54" ph="..." />
-            <marker date="1523801108910" expanded="true" signature="86:389" ph="{...}" />
-            <marker date="1523801108910" expanded="true" signature="135:387" ph="{...}" />
-            <marker date="1523801108910" expanded="true" signature="246:381" ph="{...}" />
+            <marker date="1523803038599" expanded="true" signature="6:54" ph="..." />
+            <marker date="1523803038599" expanded="true" signature="86:354" ph="{...}" />
+            <marker date="1523803038599" expanded="true" signature="135:352" ph="{...}" />
+            <marker date="1523803038599" expanded="true" signature="246:346" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -339,8 +360,8 @@
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1523799293611" expanded="true" signature="15:72" ph="@..." />
-            <marker date="1523799293611" expanded="true" signature="117:349" ph="&lt;div.../&gt;" />
+            <marker date="1523803123962" expanded="true" signature="15:72" ph="@..." />
+            <marker date="1523803123962" expanded="true" signature="94:326" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
@@ -447,19 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-          <folding>
-            <marker date="1523798798405" expanded="true" signature="0:58" ph="@..." />
-            <marker date="1523798798405" expanded="true" signature="102:401" ph="@..." />
-            <marker date="1523798798405" expanded="true" signature="132:401" ph="{...}" />
-            <marker date="1523798798405" expanded="true" signature="139:399" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -536,34 +544,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Flower/Index.cshtml">
+    <entry file="file://$PROJECT_DIR$/Controllers/FlowerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <marker date="1523799293611" expanded="true" signature="15:72" ph="@..." />
-            <marker date="1523799293611" expanded="true" signature="117:349" ph="&lt;div.../&gt;" />
+            <marker date="1523803038599" expanded="true" signature="6:54" ph="..." />
+            <marker date="1523803038599" expanded="true" signature="86:354" ph="{...}" />
+            <marker date="1523803038599" expanded="true" signature="135:352" ph="{...}" />
+            <marker date="1523803038599" expanded="true" signature="246:346" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controllers/FlowerController.cs">
+    <entry file="file://$PROJECT_DIR$/Views/Flower/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
-            <marker date="1523801108910" expanded="true" signature="6:54" ph="..." />
-            <marker date="1523801108910" expanded="true" signature="86:389" ph="{...}" />
-            <marker date="1523801108910" expanded="true" signature="135:387" ph="{...}" />
-            <marker date="1523801108910" expanded="true" signature="246:381" ph="{...}" />
+            <marker date="1523803123962" expanded="true" signature="15:72" ph="@..." />
+            <marker date="1523803123962" expanded="true" signature="94:326" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <marker date="1523801650641" expanded="true" signature="6:220" ph="..." />
             <marker date="1523801650641" expanded="true" signature="252:1045" ph="{...}" />
@@ -572,6 +580,19 @@
             <marker date="1523801650641" expanded="true" signature="602:722" ph="{...}" />
             <marker date="1523801650641" expanded="true" signature="762:866" ph="{...}" />
             <marker date="1523801650641" expanded="true" signature="904:1037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1523798798405" expanded="true" signature="0:58" ph="@..." />
+            <marker date="1523798798405" expanded="true" signature="102:401" ph="@..." />
+            <marker date="1523798798405" expanded="true" signature="132:401" ph="{...}" />
+            <marker date="1523798798405" expanded="true" signature="139:399" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
