@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Каталог комнатных растений";
+}
+
+<h1>Комнатные растения Южного Урала</h1>
+
+@foreach (var flower in Model)
+{
+    <div class="flower-item">
+        <div class="flower-item-name">@flower.Name</div>
+        <div class="flower-item-price">@flower.Price</div>
+        <div class="flower-item-more"> <a href="~/Flower/Index/@flower.Id">Читать далее..</a></div>
+       
+    </div>
+}
+
+

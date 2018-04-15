@@ -1,0 +1,11 @@
+D:\Настя\проекты\asp_di\app_shop\bin\Debug\netcoreapp2.0\app_shop.deps.json
+D:\Настя\проекты\asp_di\app_shop\bin\Debug\netcoreapp2.0\app_shop.runtimeconfig.json
+D:\Настя\проекты\asp_di\app_shop\bin\Debug\netcoreapp2.0\app_shop.runtimeconfig.dev.json
+D:\Настя\проекты\asp_di\app_shop\bin\Debug\netcoreapp2.0\app_shop.dll
+D:\Настя\проекты\asp_di\app_shop\bin\Debug\netcoreapp2.0\app_shop.pdb
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.csproj.CoreCompileInputs.cache
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.AssemblyInfoInputs.cache
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.AssemblyInfo.cs
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.dll
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.pdb
+D:\Настя\проекты\asp_di\app_shop\obj\Debug\netcoreapp2.0\app_shop.csprojResolveAssemblyReference.cache
